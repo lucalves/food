@@ -11,7 +11,7 @@ git clone git@github.com:lucalves/food.git
 
 cd food
 
-yarn or npm install
+npm install
 
 expo start
 ```
