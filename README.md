@@ -2,6 +2,10 @@
 
 Application created with Expo that displays a list of restaurants using the Axios library in the API request.
 
+## Screenshots
+
+[IN DEVELOPMENT...]
+
 ##  How to install
 
 Clone into your home folder:
