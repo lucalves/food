@@ -4,7 +4,7 @@ Application created with Expo that displays a list of restaurants using the Axio
 
 ## Screenshots
 
-[IN DEVELOPMENT...]
+- [ ] Needs to be included...
 
 ##  How to install
 
