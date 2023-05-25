@@ -2,15 +2,23 @@
 
 Application created with Expo that displays a list of restaurants using the Axios library in the API request.
 
-## Screenshots
+## Screenshots 📸
 
-- [ ] Needs to be included...
+<img src=".github/screenshot.png" width="350" />
 
-##  How to install
+## Technologies 👨🏻‍💻
 
-Clone into your home folder:
+- [Expo](https://expo.dev/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 
-```
+## Learned ✍️
+
+- Best practices for making API requests with Axios;
+
+## How to Install 🚀
+
+```bash
 git clone git@github.com:lucalves/food.git
 
 cd food
@@ -20,6 +28,6 @@ npm install
 expo start
 ```
 
-## License
+## License 📝
 
 MIT
