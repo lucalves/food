@@ -12,6 +12,10 @@ Application created with Expo that displays a list of restaurants using the Axio
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 
+## Architecture 📂
+
+<img src=".github/architecture.png" width="350" />
+
 ## Learned ✍️
 
 - Best practices for making API requests with Axios;
