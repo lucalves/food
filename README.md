@@ -16,7 +16,7 @@ Application created with Expo that displays a list of restaurants using the Axio
 
 <img src=".github/architecture.png" width="350" />
 
-## Learned ✍️
+## Learn ✍️
 
 - Best practices for making API requests with Axios
 
