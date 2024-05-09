@@ -20,7 +20,7 @@ Application created with Expo that displays a list of restaurants using the Axio
 
 - Best practices for making API requests with Axios
 
-## How to Install 🚀
+## Install 🚀
 
 ```bash
 git clone git@github.com:lucalves/food.git
