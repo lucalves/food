@@ -2,7 +2,7 @@
 
 App created with Expo that displays a list of restaurants using the axios library with the API request.
 
-## Screenshots 📸
+## Screenshot 📸
 
 <img src=".github/screenshot.png" width="350" />
 
